@@ -2,31 +2,32 @@
 
 This Web App was built by me to collect details of my classmates.
 
-# How to get this project working
+## How to get this project working
 
-## Install Dependencies
++ Install Dependencies
+```
 composer install
-
-## Run Migrations
+```
++ Run Migrations
+```
 php artisan migrate
+```
 
-## Add virtual host if using Apache
++ Add virtual host if using Apache
 
-### If you get an error about an encryption key
+If you get an error about an encryption key
+```
 php artisan key:generate
-
-
-## App Info
-
-### Author
+```
++ Author
 
 Harshith VA
 [VAwebsites](http://www.vawebsites.in)
 
-### Version
++ Version
 
 1.0.0
 
-### License
++ License
 
 This project is licensed under the MIT License
