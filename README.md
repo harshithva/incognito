@@ -1,4 +1,4 @@
-## Jersey Details collection web App
+## Jersey Details collection Web App
 
 This Web App was built by me to collect details of my classmates.
 
