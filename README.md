@@ -2,7 +2,7 @@
 
 This Web App was built by me to collect details of my classmates.
 
-## How to get this project working!
+## How to get this project Working!
 
 + Install Dependencies
 ```
