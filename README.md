@@ -1,6 +1,6 @@
 ## Jersey Details collection Web App
 
-This Web App was built by me to collect details of my classmates.
+This Web App was built to collect details of my classmates.
 
 ## How to get this project Working!
 
