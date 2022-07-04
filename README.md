@@ -1,6 +1,6 @@
 ## Jersey Details collection Web App
 
- Web App was built to collect jersey details(name, size, no).
+ This Web App was built to collect jersey details(name, size, no).
 
 ## How to get this project Working!
 
