@@ -1,4 +1,4 @@
-## Jersey Details collection Web App
+## Jersey Details collection App
 
  This Web App was built to collect jersey details(name, size, no).
 
